@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos Jesús Pérez-del-Pulgar | JRic</title>
+    <link>https://JRicardoSan.github.io/author/carlos-jesus-perez-del-pulgar/</link>
+      <atom:link href="https://JRicardoSan.github.io/author/carlos-jesus-perez-del-pulgar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carlos Jesús Pérez-del-Pulgar</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 26 Feb 2020 20:21:33 +0200</lastBuildDate>
+    <image>
+      <url>https://JRicardoSan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Carlos Jesús Pérez-del-Pulgar</title>
+      <link>https://JRicardoSan.github.io/author/carlos-jesus-perez-del-pulgar/</link>
+    </image>
+    
+    <item>
+      <title>Path planning for reconfigurable rovers in planetary exploration</title>
+      <link>https://JRicardoSan.github.io/publication/2017-aim/</link>
+      <pubDate>Sat, 01 Jul 2017 19:52:00 +0200</pubDate>
+      <guid>https://JRicardoSan.github.io/publication/2017-aim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

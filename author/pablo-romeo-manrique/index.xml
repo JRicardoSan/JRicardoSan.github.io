@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pablo Romeo Manrique | JRic</title>
+    <link>https://JRicardoSan.github.io/author/pablo-romeo-manrique/</link>
+      <atom:link href="https://JRicardoSan.github.io/author/pablo-romeo-manrique/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pablo Romeo Manrique</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Mon, 22 Jul 2019 18:55:13 +0200</lastBuildDate>
+    <image>
+      <url>https://JRicardoSan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Pablo Romeo Manrique</title>
+      <link>https://JRicardoSan.github.io/author/pablo-romeo-manrique/</link>
+    </image>
+    
+    <item>
+      <title>Choosing the Best Locomotion Mode in Reconfigurable Rovers</title>
+      <link>https://JRicardoSan.github.io/publication/2019-electronics/</link>
+      <pubDate>Mon, 22 Jul 2019 18:55:13 +0200</pubDate>
+      <guid>https://JRicardoSan.github.io/publication/2019-electronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupled path and motion planning for a rover-manipulator system</title>
+      <link>https://JRicardoSan.github.io/publication/2019-astra/</link>
+      <pubDate>Mon, 17 Jun 2019 20:34:00 +0200</pubDate>
+      <guid>https://JRicardoSan.github.io/publication/2019-astra/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | JRic</title>
+    <link>https://JRicardoSan.github.io/publication/</link>
+      <atom:link href="https://JRicardoSan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 26 Feb 2020 20:21:33 +0200</lastBuildDate>
+    <image>
+      <url>https://JRicardoSan.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://JRicardoSan.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Autonomous Navigation for Planetary Rovers with Limited Resources</title>
+      <link>https://JRicardoSan.github.io/publication/2020-preprint/</link>
+      <pubDate>Wed, 26 Feb 2020 20:21:33 +0200</pubDate>
+      <guid>https://JRicardoSan.github.io/publication/2020-preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic path planning for reconfigurable rovers using a multi-layered grid</title>
+      <link>https://JRicardoSan.github.io/publication/2019-eaai/</link>
+      <pubDate>Fri, 01 Nov 2019 17:48:00 +0200</pubDate>
+      <guid>https://JRicardoSan.github.io/publication/2019-eaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Choosing the Best Locomotion Mode in Reconfigurable Rovers</title>
+      <link>https://JRicardoSan.github.io/publication/2019-electronics/</link>
+      <pubDate>Mon, 22 Jul 2019 18:55:13 +0200</pubDate>
+      <guid>https://JRicardoSan.github.io/publication/2019-electronics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coupled path and motion planning for a rover-manipulator system</title>
+      <link>https://JRicardoSan.github.io/publication/2019-astra/</link>
+      <pubDate>Mon, 17 Jun 2019 20:34:00 +0200</pubDate>
+      <guid>https://JRicardoSan.github.io/publication/2019-astra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path planning for reconfigurable rovers in planetary exploration</title>
+      <link>https://JRicardoSan.github.io/publication/2017-aim/</link>
+      <pubDate>Sat, 01 Jul 2017 19:52:00 +0200</pubDate>
+      <guid>https://JRicardoSan.github.io/publication/2017-aim/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
