@@ -5,12 +5,36 @@
     <link>https://JRicardoSan.github.io/</link>
       <atom:link href="https://JRicardoSan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>JRic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Wed, 26 Feb 2020 20:21:33 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Mon, 31 Aug 2020 12:27:29 +0200</lastBuildDate>
     <image>
       <url>https://JRicardoSan.github.io/images/icon_huc6f905295cc8c750ee5c5648a1a4d863_7397_512x512_fill_lanczos_center_2.png</url>
       <title>JRic</title>
       <link>https://JRicardoSan.github.io/</link>
     </image>
+    
+    <item>
+      <title>Autonomous DEcision making in very long traverses</title>
+      <link>https://JRicardoSan.github.io/project/ade/</link>
+      <pubDate>Mon, 31 Aug 2020 12:27:29 +0200</pubDate>
+      <guid>https://JRicardoSan.github.io/project/ade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path &amp; Motion Planning for a Sample Fetching Rover</title>
+      <link>https://JRicardoSan.github.io/project/ares2/</link>
+      <pubDate>Sun, 30 Aug 2020 12:38:51 +0200</pubDate>
+      <guid>https://JRicardoSan.github.io/project/ares2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Path planning in extreme terrains</title>
+      <link>https://JRicardoSan.github.io/project/ares1/</link>
+      <pubDate>Sun, 30 Aug 2020 12:35:19 +0200</pubDate>
+      <guid>https://JRicardoSan.github.io/project/ares1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Efficient Autonomous Navigation for Planetary Rovers with Limited Resources</title>
