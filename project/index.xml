@@ -5,20 +5,12 @@
     <link>https://JRicardoSan.github.io/project/</link>
       <atom:link href="https://JRicardoSan.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 01 Sep 2020 12:55:11 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Mon, 31 Aug 2020 12:27:29 +0200</lastBuildDate>
     <image>
       <url>https://JRicardoSan.github.io/images/icon_huc6f905295cc8c750ee5c5648a1a4d863_7397_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://JRicardoSan.github.io/project/</link>
     </image>
-    
-    <item>
-      <title>FIRST-ROB</title>
-      <link>https://JRicardoSan.github.io/project/firstrob/</link>
-      <pubDate>Tue, 01 Sep 2020 12:55:11 +0200</pubDate>
-      <guid>https://JRicardoSan.github.io/project/firstrob/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>ADE</title>
@@ -31,15 +23,23 @@
     <item>
       <title>Path &amp; Motion Planning for a Sample Fetching Rover</title>
       <link>https://JRicardoSan.github.io/project/ares2/</link>
-      <pubDate>Sun, 30 Aug 2020 12:38:51 +0200</pubDate>
+      <pubDate>Fri, 26 Jan 2018 12:38:51 +0200</pubDate>
       <guid>https://JRicardoSan.github.io/project/ares2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FIRST-ROB</title>
+      <link>https://JRicardoSan.github.io/project/firstrob/</link>
+      <pubDate>Thu, 25 Jan 2018 12:55:11 +0200</pubDate>
+      <guid>https://JRicardoSan.github.io/project/firstrob/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Path planning in extreme terrains</title>
       <link>https://JRicardoSan.github.io/project/ares1/</link>
-      <pubDate>Sun, 30 Aug 2020 12:35:19 +0200</pubDate>
+      <pubDate>Wed, 30 Aug 2017 12:35:19 +0200</pubDate>
       <guid>https://JRicardoSan.github.io/project/ares1/</guid>
       <description></description>
     </item>
