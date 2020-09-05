@@ -2,8 +2,8 @@
   "name": "JRic",
   "short_name": "JRic",
   "lang": "en-us",
-  "theme_color": "#F5A276",
-  "background_color": "#F5A276",
+  "theme_color": "#EA8037",
+  "background_color": "#EA8037",
   "icons": [{
     "src": "/images/icon_huc6f905295cc8c750ee5c5648a1a4d863_7397_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
