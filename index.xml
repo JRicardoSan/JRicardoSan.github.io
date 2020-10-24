@@ -5,7 +5,7 @@
     <link>https://JRicardoSan.github.io/</link>
       <atom:link href="https://JRicardoSan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>JRic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Sat, 24 Oct 2020 15:28:07 +0200</lastBuildDate>
     <image>
       <url>https://JRicardoSan.github.io/images/icon_huc6f905295cc8c750ee5c5648a1a4d863_7397_512x512_fill_lanczos_center_2.png</url>
       <title>JRic</title>
@@ -28,6 +28,14 @@
       <guid>https://JRicardoSan.github.io/documentation/dymu/localpathrepairing/</guid>
       <description>&lt;p&gt;Under construction&amp;hellip;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Enhancing Mobile Manipulation with Synchronized Arm-Locomotion Control</title>
+      <link>https://JRicardoSan.github.io/publication/2020-isairas/</link>
+      <pubDate>Sat, 24 Oct 2020 15:28:07 +0200</pubDate>
+      <guid>https://JRicardoSan.github.io/publication/2020-isairas/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raul Dominguez | JRic</title>
+    <link>https://JRicardoSan.github.io/author/raul-dominguez/</link>
+      <atom:link href="https://JRicardoSan.github.io/author/raul-dominguez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raul Dominguez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Sat, 24 Oct 2020 15:28:07 +0200</lastBuildDate>
+    <image>
+      <url>https://JRicardoSan.github.io/images/icon_huc6f905295cc8c750ee5c5648a1a4d863_7397_512x512_fill_lanczos_center_2.png</url>
+      <title>Raul Dominguez</title>
+      <link>https://JRicardoSan.github.io/author/raul-dominguez/</link>
+    </image>
+    
+    <item>
+      <title>Enhancing Mobile Manipulation with Synchronized Arm-Locomotion Control</title>
+      <link>https://JRicardoSan.github.io/publication/2020-isairas/</link>
+      <pubDate>Sat, 24 Oct 2020 15:28:07 +0200</pubDate>
+      <guid>https://JRicardoSan.github.io/publication/2020-isairas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
