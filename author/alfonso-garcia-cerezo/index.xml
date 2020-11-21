@@ -5,12 +5,20 @@
     <link>https://JRicardoSan.github.io/author/alfonso-garcia-cerezo/</link>
       <atom:link href="https://JRicardoSan.github.io/author/alfonso-garcia-cerezo/index.xml" rel="self" type="application/rss+xml" />
     <description>Alfonso García Cerezo</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Fri, 01 Nov 2019 17:48:00 +0200</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Sun, 25 Oct 2020 17:36:57 +0100</lastBuildDate>
     <image>
       <url>https://JRicardoSan.github.io/images/icon_huc6f905295cc8c750ee5c5648a1a4d863_7397_512x512_fill_lanczos_center_2.png</url>
       <title>Alfonso García Cerezo</title>
       <link>https://JRicardoSan.github.io/author/alfonso-garcia-cerezo/</link>
     </image>
+    
+    <item>
+      <title>Improving Autonomous Rover Guidance in Round-Trip Missions Using a Dynamic Cost Map</title>
+      <link>https://JRicardoSan.github.io/publication/2020-iros/</link>
+      <pubDate>Sun, 25 Oct 2020 17:36:57 +0100</pubDate>
+      <guid>https://JRicardoSan.github.io/publication/2020-iros/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamic path planning for reconfigurable rovers using a multi-layered grid</title>
